@@ -1,0 +1,18 @@
+Starter code and instructions: https://learncodebygaming.com/blog/how-to-make-a-video-game-in-java-2d-basics
+
+Beginner:
+- Change the colors that are being used.
+- Change the image files that are being used.
+- Change how many points you get per coin.
+- Change the dimensions of the game board.
+- Use WASD instead of arrows for movement.
+
+Intermediate:
+- Make a special coin that looks different and is worth more points.
+- End or restart the game when all coins are collected, or when a certain score is reached.
+- Add a game clock.
+
+Advanced:
+- Add an object type that reduces your score when touched. Or maybe it ends the game.
+- Think about other keyboard keys that might perform some other action.
+- Add more scoreboard/HUD elements.
